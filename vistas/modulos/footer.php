@@ -2,7 +2,7 @@
 	
 	<strong>Copyright &copy;  <a href="" target="_blank"></a>.</strong>
 
-	Todos los derechos reservados.
+	Administración de proyectos informaticos (API) 2021-2 UFPS.
 
 
 </footer>

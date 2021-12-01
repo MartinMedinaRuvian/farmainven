@@ -4,16 +4,12 @@
     
     <h1>
       
-      Tablero
+      Proximamente
       
-      <small>Panel de Control</small>
+      <small>tablero</small>
     
     </h1>
 
-    <h1>Próximamente</h1>
-
   </section>
-
-
  
 </div>
