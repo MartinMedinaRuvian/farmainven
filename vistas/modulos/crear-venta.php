@@ -202,7 +202,7 @@ if($_SESSION["perfil"] == "Especial"){
                             
                             <div class="input-group">
                            
-                              <input type="number" class="form-control input-lg" min="0" id="nuevoImpuestoVenta" name="nuevoImpuestoVenta" placeholder="0" required>
+                              <input type="number" class="form-control input-lg" min="0" id="nuevoImpuestoVenta" name="nuevoImpuestoVenta" value="19" disabled required>
 
                                <input type="hidden" name="nuevoPrecioImpuesto" id="nuevoPrecioImpuesto" required>
 
@@ -276,12 +276,14 @@ if($_SESSION["perfil"] == "Especial"){
 
           <div class="box-footer">
 
-            <button type="submit" class="btn btn-primary pull-right">Guardar venta</button>
+            <button type="submit" class="btn btn-primary pull-right ml-2">Guardar venta</button>
+
+            <button type="submit" class="btn btn-danger ml-2" onclick="limpiarCampos()">Cancelar</button>
 
           </div>
 
-        </form>
-
+        </form>   
+  
         <?php
 
           $guardarVenta = new ControladorVentas();
@@ -481,3 +483,11 @@ MODAL AGREGAR CLIENTE
   </div>
 
 </div>
+
+
+<script type="text/javascript">
+    function limpiarCampos()
+    {
+      window.location = "ventas";
+    }
+</script>      
