@@ -63,17 +63,15 @@ $bloque1 = <<<EOF
 		
 		<tr>
 			
-			<td style="width:150px"><img src="images/logo-negro-bloque.png"></td>
-
 			<td style="background-color:white; width:140px">
 				
 				<div style="font-size:8.5px; text-align:right; line-height:15px;">
 					
 					<br>
-					NIT: 71.759.963-9
+					NIT: 1090495670-7
 
 					<br>
-					Dirección: Calle 44B 92-11
+					Dirección: Calle 32 # 6-61 Ermita
 
 				</div>
 
@@ -84,10 +82,10 @@ $bloque1 = <<<EOF
 				<div style="font-size:8.5px; text-align:right; line-height:15px;">
 					
 					<br>
-					Teléfono: 300 786 52 49
+					Teléfono: 311 564 3736
 					
 					<br>
-					ventas@farmainven.com
+					contacto@farmainven.com
 
 				</div>
 				

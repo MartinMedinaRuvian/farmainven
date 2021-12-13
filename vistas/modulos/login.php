@@ -1,14 +1,12 @@
 <div class="login-box">
   
   <div class="login-logo">
-
     <img src="vistas/img/farmayax/logo.png" class="img-responsive" style="padding:30px 100px 0px 100px">
-
-  </div>
-
-  <div class="login-box-body">
-
-    <p class="login-box-msg">Ingresar a Farmainven</p>
+    </div>
+    
+    <div class="login-box-body">
+      
+    <p class="login-box-msg">Ingresar al sistema</p>
 
     <form method="post">
 

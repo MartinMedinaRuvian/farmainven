@@ -2,7 +2,7 @@
 	
 	<strong>Copyright &copy;  <a href="" target="_blank"></a>.</strong>
 
-	Administración de proyectos informaticos (API) 2021-2 UFPS.
+	Farmainven 2021 - Administración de proyectos - UFPS
 
 
 </footer>

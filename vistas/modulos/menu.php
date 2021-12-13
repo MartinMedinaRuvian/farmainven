@@ -77,7 +77,6 @@
 
 			echo '<li class="treeview">
 
-				<! --
 				<a href="#">
 
 					<i class="fa fa-list-ul"></i>
@@ -91,7 +90,6 @@
 					</span>
 
 				</a>
-				-- >
 
 				<ul class="treeview-menu">
 					
